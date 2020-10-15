@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import 'src/ui/splash_screen.dart';
 
 //Aplikasi Dzikir
+//Hacktoberfest
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
