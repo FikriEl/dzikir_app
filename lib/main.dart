@@ -3,6 +3,8 @@ import 'package:flutter/services.dart';
 
 import 'src/ui/splash_screen.dart';
 
+//Aplikasi Dzikir
+
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await SystemChrome.setPreferredOrientations(
